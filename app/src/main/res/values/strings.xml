@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidColorNaming</string>
+    <string name="title_activity_camera">CameraActivity</string>
+
+    <string name="camera_not_available">Camera Not Available</string>
+    <string name="color_matcher_not_ready">Color Matcher Not Ready</string>
+</resources>
